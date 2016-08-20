@@ -1,0 +1,39 @@
+p1 {
+    font-family: fantasy;
+    font-size: 2em;
+    text-indent: 3em;
+    color: floralwhite;
+    
+}
+.taufan {
+    color: cornflowerblue;
+}
+h1 {
+    font-family: cursive;
+    font-size: 3em;
+    color:floralwhite;
+}
+body {
+    background-color: azure;
+    background-image: url(the_beatles_2-wallpaper-1366x768.jpg);
+    
+}
+h2,h3 {
+    font-family: sans-serif;
+    font-size: 2em;
+    color: floralwhite;
+}
+table {
+    font-size: 2em;
+    color: aquamarine;
+    border-collapse: collapse;
+}
+th,td {
+    border: 1px solid red;
+    border-width: medium;
+}
+form {
+    font-family: cursive;
+    font-size: 1,5em;
+    color: floralwhite;
+}
